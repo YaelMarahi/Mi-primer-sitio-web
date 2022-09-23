@@ -1,2 +1,0 @@
-# prueba
-Mi primer repositorio
