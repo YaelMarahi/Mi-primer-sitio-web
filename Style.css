@@ -1,0 +1,48 @@
+/*Selector universal*/
+*{
+    background-color: azure;
+    /*color de texto*/
+    /*color: violet;*/
+}
+h1{
+    color: darkorange;
+}
+/*de etiqueta*/
+h2{
+   color: blue; 
+}
+h3{
+    color: rebeccapurple;
+}
+
+/*de clase*/
+.tipografia{
+    /*Tipografia*/
+    font-family: sans-serif;
+    /*tamaño*/
+    font-size: x-large;
+    /*peso*/
+    font-weight: 900;
+    /*alineacion*/
+    text-align: center;
+}
+/*de id*/
+#rosa{
+    color: yellowgreen;
+}
+
+#link{
+    text-align: center;
+    font-style: oblique;
+}
+
+/*media queries*/
+@media only screen and (max-width: 600px) {
+    body{
+        background-color: azure;
+    }
+}
+img, video{
+    width: 400px;
+    height: ;
+}
